@@ -17,10 +17,15 @@ Part 5: Optimize images sizes and security for production and find out why docke
 Passing this evaluation requires you to do each & every exercise. 
 
 Each exercise is worth 1-3 credits depending on the completed sub-parts.
-```
+<p>
 Example:
-Completing part 1 gives you 1 credit within that exercise. Completing parts 1 and 2 is worth 2 credits. Completing all of the parts will grant you 3 credits.
-```
+Completing part 1 gives you 1 credit within that exercise.
+
+Completing parts 1 and 2 is worth 2 credits. 
+
+Completing all of the parts will grant you 3 credits.
+</p>
+
 There will be an area in which the associate will submit screenshots of the code working as well as submit their repos into their organization as `Docker-Evaluation-[associate-name]`.
 
 ## Technical Issues
